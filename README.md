@@ -4,7 +4,7 @@
 useful links
 ------------
 
-Using Java program rum chrome browser
+Using Java program run chrome browser
 
 [Running Selenium WebDriver Script in Chrome Browser](https://www.youtube.com/watch?v=4I9AHUGmhXI)
 
